@@ -1,0 +1,25 @@
+
+.navbar{
+    background-color: rgb(43, 41, 41);
+    padding: 6px;
+    
+}
+.collapse{
+    justify-content: end;
+}
+.img-fluid{
+    padding-top: 9px;
+    height: 30rem; 
+    width: 100%; 
+    object-fit: cover;
+}
+.text-light{
+    height: 30rem; 
+    width:100%; 
+    background-color: rgb(43, 42, 42);"
+}
+.clase-ul{
+   background: linear-gradient(to right, #1a323f, #1c4d69)
+
+}
+
